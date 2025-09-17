@@ -1,6 +1,6 @@
 # -Proyecto-Urgencias-Hospitalarias---Looker-Studio
 Este proyecto analiza datos de urgencias y visualiza: - Tiempos de espera - % de ingresos por triaje - Distribución por procedencia
-[Ver dashboard en Looker Studio](https://lookerstudio.google.com/s/n415TfR0mMA)
+[Ver dashboard en Looker Studio](https://lookerstudio.google.com/s/t1S4aRLDTp4)
 
 # 📊 Proyecto Urgencias Hospitalarias - Looker Studio
 
@@ -16,7 +16,7 @@ El objetivo es facilitar la **toma de decisiones** y la **gestión hospitalaria*
 
 ## 📈 Dashboard Interactivo
 
-🔗 **[Ver Dashboard en Looker Studio](# 📊 Proyecto Urgencias Hospitalarias - Looker Studio
+🔗 **[Ver Dashboard en Looker Studio](https://lookerstudio.google.com/s/t1S4aRLDTp4)(# 📊 Proyecto Urgencias Hospitalarias - Looker Studio
 
 Este proyecto analiza datos reales de urgencias hospitalarias, permitiendo entender mejor:
 - **Tiempos de espera** (pre y post triaje)
@@ -30,7 +30,7 @@ El objetivo es facilitar la **toma de decisiones** y la **gestión hospitalaria*
 
 ## 📈 Dashboard Interactivo
 
-🔗 **[Ver Dashboard en Looker Studio](ENLACE_AQUI)**  
+🔗 **[Ver Dashboard en Looker Studio](https://lookerstudio.google.com/s/t1S4aRLDTp4)**  
 
 Incluye:
 - Filtros dinámicos por hospital y triaje
